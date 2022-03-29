@@ -1,24 +1,10 @@
 # mi
+#小米商城仿写项目 （前端部分）
+实现小米商城主页
 
-## Project setup
-```
-npm install
-```
+###类型：全栈 
+###前端：Vue3+Vue脚手架
+###后端：apache+php7+mysql
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+实现功能：页面主题部分+账号登录（cookies）
